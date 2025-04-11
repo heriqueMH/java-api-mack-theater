@@ -19,4 +19,11 @@ Este projeto é uma API RESTful desenvolvida em Java com Spring Boot, voltada pa
 ## 🚀 Como executar o projeto
 
 ```bash
+# Clone o repositório
+git clone https://github.com/seu-usuario/java-api-mack-theater.git
 
+# Acesse a pasta
+cd java-api-mack-theater
+
+# Execute o projeto
+mvn spring-boot:run
